@@ -1,0 +1,13 @@
+/* color by name */
+
+p{
+    color: cyan;
+}
+/* color by Hex code */
+#h{
+    color: #e2222e;
+}
+/* color by values */
+#p{
+color: rgb(240, 97, 180);
+}
